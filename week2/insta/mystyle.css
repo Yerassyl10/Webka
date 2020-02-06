@@ -1,0 +1,134 @@
+body{
+    margin:0;
+    background-color: #fafafa;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+}
+.left{
+    float: left;
+    width:50%;
+    text-align:right;
+} 
+.right{
+    float: right;
+    width:50%;
+    text-align: left;
+}
+
+.iphones{
+    margin-top: 130px;
+}
+.registration{
+    background-color: #fff;
+    border: 1px solid #e6e6e6;
+    width:50%;
+    border-radius: 1px;
+    margin: 40px 0 10px 27px;
+    padding: 10px 0;
+}
+
+h2{
+    font-weight: 600;
+    line-height: 20px;
+    font-size: 17px;
+    margin: 0 40px 10px;
+    color: #999;
+    margin-bottom: 10px;
+}
+.head{
+    text-align: center;
+    margin-top:22px;
+}
+
+button{
+    background-color: rgba(var(--h5f,56,151,240),1);
+    border: 1px solid transparent;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 5px 5px 8px;
+    width:75%;
+    margin:10px 0px 10px 0px;
+    cursor: pointer;
+    
+    
+}
+.logo-button{
+    background-image:url(logo.png);
+}
+.line-in-form1{
+    
+    height: 1px;   
+    background-color: #dbdbdb; 
+    width:27%; 
+    margin-top:26px; 
+    margin-left: 50px;
+}
+.line-in-form2{
+    
+    height: 1px;   
+    background-color: #dbdbdb; 
+    width:27%; 
+    margin-top:26px; 
+    margin-right: 50px;
+
+}
+.inputs{
+    margin: 10px 50px 10px 50px;
+}
+input{
+    color: #999;
+    width:100%;
+    font-size: 12px;
+    background: #fafafa;
+    border: 1px solid #efefef;
+    border-radius: 3px;
+    padding: 11px 0 11px 4px;
+    margin-bottom: 7px;
+
+}
+p{
+    color: #999;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    width: 90%;
+    margin-left: 17px;
+}
+a{
+    text-decoration: none;
+    color: #999;
+    font-weight: 700;
+}
+.apps{
+    width:50%;
+    margin: 10px 0 10px 27px;
+    padding: 10px 0;
+}
+.footer a{
+    
+    color: #003569;
+    font-size: 12px;
+    font-weight: 600;
+
+}
+.footer{
+    position: absolute;
+    top:110%;
+    left: 200px;
+    padding-top: 50px;
+}
+.list{
+    display: flex;
+    list-style-type: none;
+    
+    
+}
+.footer h2{
+    font-size: 12px;
+} 
+
+.footer-li{
+    margin-bottom: 7px; 
+    margin-right: 16px;
+}

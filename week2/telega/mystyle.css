@@ -1,0 +1,122 @@
+body{
+    margin:0;
+    background-color: #dfe5ec;
+    font-family: "Open Sans", "Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, Verdana, sans-serif;
+}
+.head-part{
+    background-color: #5682a3;
+    height:226px;
+}
+form{
+    background-color: #fff;
+    padding-top: 44px;
+    padding-right: 65px;
+    padding-bottom: 44px;
+    padding-left: 65px;
+    border-radius: 2px;
+    position: absolute;
+    left: 480px;
+    top:180px;
+    width:20%;
+}
+.login-form-head{
+    color: #222;
+    margin: 0 0 20px 0;
+    font-size: 15px;
+    font-weight: 700;
+    
+}
+.login-form-text{
+    color: #999;
+    margin: 15px 0 30px 0;
+    font-size: 13px;
+    line-height: 160%;
+    
+
+}
+.about-text{
+    position: absolute;
+    left: 545px;
+    top:  520px;
+    color: #84a2bc;;
+    font-size: 13px;
+    
+
+}
+.about-text2{
+    position: absolute;
+    left: 650px;
+    top:  545px;
+    color: #84a2bc;;
+    font-size: 13px;
+    font-weight: 700;
+    cursor: pointer;
+
+}
+.country-input-label{
+
+    color: #999;
+    font-size: 13px;
+}
+
+.country-input{                
+    color: #000;
+    font-weight: 100;
+    font-size: 13px;
+    padding: 0px 0 8px;
+    margin: 10px 0 13px;
+    width: 100%;
+    border-bottom: 1px solid rgb(224, 224, 224);
+    cursor: pointer;
+    
+}
+.code-input{
+    float: left;
+    border-bottom: 1px solid rgb(224, 224, 224);
+    padding-bottom:6px;
+    width:17%;
+}
+input{
+    color: #000;
+    background: #fff;
+    border: 0;
+    outline: 0;
+    font-size: 13px;
+    padding: 5px 0 3px;
+    margin: 3px 0 0;
+    width: 100%;
+}
+
+.phone-input{
+    float: right;
+    border-bottom: 1px solid rgb(224, 224, 224);
+    padding-bottom:6px;
+    width:73%;
+}
+
+.next{
+    color:white;
+    font-weight: 700;
+    font-size: 13px;
+    cursor: pointer;
+    position:absolute;
+    left:830px;
+    top:130px;
+}
+
+.logo{
+    position:absolute;
+    left:510px;
+    top:130px;
+    color:white;
+    padding-left: 20px;;
+    
+}
+img{
+    position:absolute;
+    left:480px;
+    top:125px;
+}
+a{
+    text-decoration: none;
+}
